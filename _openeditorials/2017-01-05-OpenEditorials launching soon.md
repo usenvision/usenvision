@@ -1,9 +1,0 @@
----
-layout: post
-title: "Open Editorials | For the people, by the people."
-date: 2016-11-24
----
-
-The website is under construction. The idea is to provide a plaform to a common man (individual) to express his/her strong views with facts. Website will be fully functional in few weeks. This is Open Editorials, For the people, by the people. 
-Contribute by developing the website or sending open editorial articles for the website. If you are interested please mail openeditorial.com team at openeditorials@gmail.com. 
-For submission of articles please provide facts by citing sources. Read "How to submit articles" under Notes for complete details.
